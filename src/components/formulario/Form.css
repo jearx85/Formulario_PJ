@@ -1,6 +1,53 @@
 .container{
     margin-top: 25px;
-    padding: 10px;
+    margin-bottom: 50px;
+    padding: 25px;
     border: 1px solid black;
     border-radius: 10px;
+    box-shadow: 5px 5px 5px lightslategray;
+}
+
+.titulo_form, h2{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 25px;
+    box-shadow: 5px 5px 5px lightslategray;
+    font-style: oblique;
+}
+
+.listd, .listGrupos, .listDoc, .listcond{
+    width: 100%;
+    border: 0ch;
+
+}
+
+.container1{
+    margin-bottom: 10px;
+}
+
+.listInvol{
+    width: 75%;
+    font-size: xx-large;
+    border: 0ch;
+}
+label{
+    font-weight: bold;
+}
+
+.col-md-4{
+    margin-top: 15px;
+}
+
+.btnPerson{
+    padding: 10px;
+    margin-left: auto;
+    margin-top: 25px;
+    border: 0ch;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightslategray;
+}
+
+.btn{
+    margin-top: 50px;
+    width: 100%;
 }
